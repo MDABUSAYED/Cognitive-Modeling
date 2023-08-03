@@ -7,4 +7,3 @@ and no deception to compare each influence. It was concluded that probing was sl
 The proportion of attacks stayed relatively the same as the cost of probing increased. Although a constant cost led to a slight decrease
 in attacks. Overall, our results concluded that the different  probing costs do not have impact on the proportion of attacks whereas it 
 had a slight noticeable impact on the proportion of probing.
-![image](https://github.com/MDABUSAYED/Cognitive-Modeling/assets/15192980/c59a8c0e-634d-463e-a088-402319f78b41)
